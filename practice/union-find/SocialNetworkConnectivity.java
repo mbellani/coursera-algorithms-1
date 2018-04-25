@@ -1,5 +1,3 @@
-package quiz;
-
 import java.util.List;
 
 import algos.UnionFind.WeightedQuickUnion;

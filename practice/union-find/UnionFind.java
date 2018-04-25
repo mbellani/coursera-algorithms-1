@@ -1,5 +1,3 @@
-package algos;
-
 import java.util.stream.IntStream;
 
 public class UnionFind {
